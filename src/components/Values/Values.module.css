@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+    font-size: 2vw;
+    font-weight: 700;
+    margin-top: 4vw;
+    letter-spacing: 0.2vw;
+    text-transform: uppercase;
+
+}
+.companies{
+    text-align: center;
+}
+.companies img{
+    width: 100%;
+    
+}
+.values{
+    background-image: url('./Assets/value.svg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:70vw;
+    /* border: 1px solid black; */
+    margin: 3vw; 
+}
+.chart ,.meter{
+    position: relative;
+    width:21vw;
+}
+.chart{
+    left:14vw;
+    top:4vw;
+
+}
+.meter{
+    top:37vw ;
+}
+
+

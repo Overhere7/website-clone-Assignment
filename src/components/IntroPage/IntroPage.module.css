@@ -1,0 +1,46 @@
+.BgImg {
+  background-color: #def6f5;
+  background-image: url("./Assets/Rectangle 9.svg");
+  background-position: bottom;
+  background-size: cover;
+  height: 45vw;
+
+}
+.IntroText {
+  width: 40vw;
+  font-size:4.5vw;
+  font-weight: 700;
+  color:#06629E;
+  padding-top: 9vw;
+  margin-left: 7.2vw;
+  font-family: "Poppins", sans-serif;
+  line-height: 5vw;
+
+}
+.IntroComment {
+  font-size: 1.28vw;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 1.5vw;
+  font-family: "Poppins", sans-serif;
+}
+.BrandName{
+    font-weight: 700;
+    font-size: 4.4vw;
+    background-color: #06629E;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    transform: skew(-20deg);
+    width: 23.8vw;
+    text-align: center;
+}
+.BrandName div{
+    transform: skew(20deg);
+
+}
+.MeterImg{
+    position: relative;
+    left: 60vw;
+    top: -12vw;
+    width: 22vw;
+}
