@@ -1,0 +1,65 @@
+.chartsMainDiv{
+    height: 53vw;
+    /* border: 2px solid black; */
+}
+.circle1{
+    height: 38vw;
+    width: 38vw;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(243, 243, 243, 1);
+    position:absolute;
+    right: 10vw;
+    margin-top: 5vw;
+    z-index: -1;
+}
+
+.circle2{
+    height: 30vw;
+    width: 30vw;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.circle3{
+
+    height: 18.5vw;
+    width: 18.5vw;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(243, 243, 243, 1);
+}
+.circle3 img{
+    width: 8vw;
+}
+.group13{
+    position: absolute;
+    left: 10vw;
+    width: 30vw;
+    margin-top: 8vw;
+}
+.revenue{
+    position: absolute;
+    right: 36.7vw;
+    width: 20vw;
+    margin-top: 19vw;
+}
+.revenue2{
+    position: absolute;
+    right: 8vw;
+    width: 28vw;
+    margin-top: 3vw;
+}
+.profile{
+    position: absolute;
+    right: 8vw;
+    width: 28vw;
+    margin-top: 33vw;  
+
+}

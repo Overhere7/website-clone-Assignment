@@ -1,0 +1,26 @@
+.body{
+
+    background-color:rgba(249, 249, 249, 1);
+    height: 55vw;
+}
+.chartsMainDiv{
+    width: 85%;
+    margin: auto;
+}
+.text{
+    right: 8vw;
+    width: 50vw;
+    margin-top: 3vw;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+
+}
+.analysis{
+    width: 62%;
+}
+.charts{
+    width: 35%;
+}

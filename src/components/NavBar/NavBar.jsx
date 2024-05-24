@@ -8,13 +8,13 @@ export default function NavBar() {
       <div className={styles.Logo}>
         <img src={logo} alt="logo image" />
       </div>
-      {/* <div className={styles.NavSections}>
+      <div className={styles.NavSections}>
         <div>Products</div>
         <div>About Us</div>
         <div>Resources</div>
         <div>Pricing</div>
         <div>Contact</div>
-      </div> */}
+      </div>
       <div className={styles.SignUp_SingIn}>
         <button>Log In / Sign Up</button>
       </div>

@@ -1,0 +1,111 @@
+.BgImg{
+    border: 1px solid black;
+    background-color: #010731;
+}
+.IntroText {
+    font-size:4vw;
+    font-weight: 700;
+    color:#06629E;
+    padding-top: 6vw;
+    font-family: "Poppins", sans-serif;
+    /* line-height: 5vw; */
+   
+    display: flex;
+    gap: 2vw;
+    justify-content: center;
+    color: #FFFFFF;
+  
+  }
+  .IntroComment {
+    font-size: 1.5vw;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 2vw;
+    font-family: "Poppins", sans-serif;
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .BrandName{
+      font-weight: 700;
+      font-size: 4.4vw;
+      background-color: #06629E;
+      font-family: "Poppins", sans-serif;
+      color: white;
+      transform: skew(-20deg);
+      width: 23.8vw;
+      text-align: center;
+      height: 5vw;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 0.5vw;
+  }
+  .BrandName div{
+      transform: skew(20deg);
+  
+  }
+  .companylogo{
+    text-align: center;
+    margin-top: 3vw;
+    /* border: 2px solid white; */
+    height: 3vw;
+  }
+  .companylogo img{
+    width: 70%;
+  }
+  .images{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+  }
+  .images div{
+    margin: 0.5vw;
+    margin-top: 1.5vw;
+
+  }
+  .smallimage{
+    width: 13vw;
+  }
+  .bigimage{
+    width: 50vw;
+    position: relative;
+    z-index: 90;
+  }
+  .profile{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+    height: 8.5vw;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    padding: 2vw;
+    box-sizing: border-box;
+    font-size: 1vw;
+    position: relative;
+    margin-top: -3vw;
+    box-shadow: 0px 0px 10px grey;
+    z-index: 100;
+    
+
+  }
+  .profile img{
+    width: 9vw;
+  }
+  .border{
+
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 8.5vw;
+    width: 40%;
+    margin: auto;
+    font-size: 1vw;
+    position: relative;
+    margin-top: -8vw;
+    transform: translateX(0.5vw);
+    z-index: 99;
+    
+  }
+
